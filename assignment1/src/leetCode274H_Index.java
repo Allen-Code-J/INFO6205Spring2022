@@ -5,7 +5,7 @@ class Solution274 {
         Arrays.sort(citations);
         int h = 0;
         int i = citations.length - 1;
-        while (citations[i] > h && i >= 0 ) {
+        while ( i >= 0 && citations[i] > h ) {
             i = i - 1;
             h = h + 1;
         }
