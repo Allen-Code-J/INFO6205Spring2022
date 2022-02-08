@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
-      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode1019NextGreaterNodeInLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode19RemoveNthNodeFrom End ofList" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode328OddEvenLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode82RemoveDuplicatesFromSortedList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +17,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="24RKh56XXTnonkpbOcG60hYI23z" />
   <component name="ProjectViewState">
@@ -31,6 +30,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
@@ -85,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644260409028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="committing and pushing">
+      <created>1644260663434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644260663434</updated>
+    </task>
+    <task id="LOCAL-00005" summary="committing and pushing">
+      <created>1644260695546</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644260695546</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
