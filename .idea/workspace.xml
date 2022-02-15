@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode2_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/src/leetCode2_AddTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3/assignment3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/assignment3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode138_CopyListwithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/src/leetCode138_CopyListwithRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3/src/leetCode23_MergeKSortedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/src/leetCode23_MergeKSortedLists.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +39,24 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +69,11 @@
       <workItem from="1643588075946" duration="89000" />
       <workItem from="1644206941895" duration="1594000" />
       <workItem from="1644372945572" duration="634000" />
-      <workItem from="1644440991013" duration="2214000" />
+      <workItem from="1644440991013" duration="8528000" />
+      <workItem from="1644621292024" duration="1603000" />
+      <workItem from="1644694097922" duration="2444000" />
+      <workItem from="1644773617074" duration="111000" />
+      <workItem from="1644949271906" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="committing and pushing">
       <created>1644207070904</created>
@@ -110,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644373462412</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="committing and pushing">
+      <created>1644444967658</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644444967658</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
