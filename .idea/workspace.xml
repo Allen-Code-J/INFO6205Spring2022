@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
-      <change afterPath="$PROJECT_DIR$/assignment4/leetCode725_SplitLinkedListInParts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,15 +39,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,7 +66,7 @@
       <workItem from="1644621292024" duration="1603000" />
       <workItem from="1644694097922" duration="2444000" />
       <workItem from="1644773617074" duration="111000" />
-      <workItem from="1644949271906" duration="991000" />
+      <workItem from="1644949271906" duration="1213000" />
     </task>
     <task id="LOCAL-00001" summary="committing and pushing">
       <created>1644207070904</created>
@@ -143,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644949566275</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="committing and pushing">
+      <created>1644952425056</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1644952425056</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
