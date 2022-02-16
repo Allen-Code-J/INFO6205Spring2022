@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing" />
+    <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
+      <change afterPath="$PROJECT_DIR$/assignment4/leetCode148_SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment4/leetCode1669_MergeInBetweenLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment4/leetCode2058_FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment4/leetCode2074_ReverseNodesInEvenLengthGroups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment4/leetCode86_PartitionList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +74,7 @@
       <workItem from="1644694097922" duration="2444000" />
       <workItem from="1644773617074" duration="111000" />
       <workItem from="1644949271906" duration="1213000" />
-      <workItem from="1644967909884" duration="667000" />
+      <workItem from="1644967909884" duration="3529000" />
     </task>
     <task id="LOCAL-00001" summary="committing and pushing">
       <created>1644207070904</created>
@@ -153,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644967976957</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="committing and pushing">
+      <created>1644980174317</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1644980174317</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
