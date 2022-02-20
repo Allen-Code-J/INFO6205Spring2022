@@ -1,3 +1,5 @@
+
+
 class Solution {
     List<Integer> list;
     Random random;
