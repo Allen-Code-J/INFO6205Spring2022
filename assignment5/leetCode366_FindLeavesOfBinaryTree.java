@@ -24,3 +24,4 @@ class Solution {
         root.right = level(root.right, list);
         return root;
     }
+}
