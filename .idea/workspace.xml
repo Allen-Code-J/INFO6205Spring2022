@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode114_FlattenBinaryTreeToLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode116_PopulatingNextRightPointersInEachNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode129_SumRootToLeafNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode366_FindLeavesOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode515_FindLargestValueInEachTreeRow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment5/leetCode662_MaximumWidthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment6/leetCode236_LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment6/leetCode437_PathSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment6/leetcode687_LongestUnivaluePath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +74,9 @@
       <workItem from="1644949271906" duration="1213000" />
       <workItem from="1644967909884" duration="7087000" />
       <workItem from="1645382303997" duration="3591000" />
-      <workItem from="1646027471236" duration="3986000" />
+      <workItem from="1646027471236" duration="4720000" />
+      <workItem from="1646094041509" duration="2074000" />
+      <workItem from="1646589477336" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="committing and pushing">
       <created>1644207070904</created>
@@ -191,7 +190,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645382578436</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="committing and pushing">
+      <created>1646070728329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1646070728329</updated>
+    </task>
+    <task id="LOCAL-00018" summary="committing and pushing">
+      <created>1646070848817</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1646070848817</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
