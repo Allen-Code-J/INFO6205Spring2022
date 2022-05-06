@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852ed20f-60b3-468a-92e3-e3c4c3ebb07a" name="Default Changelist" comment="committing and pushing">
-      <change afterPath="$PROJECT_DIR$/midterm/src/question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm/src/question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm/src/question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/midterm/src/question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalTest/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalTest/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalTest/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalTest/Problem4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midterm/Question1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,38 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/midterm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem2">
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTest.Problem1" />
+      <module name="INFO6205Spring2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTest.Problem2" />
+      <module name="INFO6205Spring2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="midterm.Question1" />
       <module name="INFO6205Spring2022" />
@@ -59,19 +90,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem2" />
+        <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.Question1" />
       </list>
     </recent_temporary>
@@ -100,7 +135,8 @@
       <workItem from="1648316310688" duration="1501000" />
       <workItem from="1648317911817" duration="1242000" />
       <workItem from="1649440401005" duration="773000" />
-      <workItem from="1649725605340" duration="370000" />
+      <workItem from="1649725605340" duration="722000" />
+      <workItem from="1651812693153" duration="4830000" />
     </task>
     <task id="LOCAL-00001" summary="committing and pushing">
       <created>1644207070904</created>
@@ -256,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649440969677</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="committing and pushing">
+      <created>1649725978356</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649725978356</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
